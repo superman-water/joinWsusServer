@@ -1,0 +1,14 @@
+﻿<Window x:Class="JoinUpdateServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JoinUpdateServer"
+        mc:Ignorable="d"
+        Title="加入-北软检测中心-UpdateServer-v1.0" Height="208.327" Width="525">
+    <Grid Margin="0,0,0.444,62.655">
+        <Button Content="加入中心UpdateServer" HorizontalAlignment="Left" Height="72" Margin="15,26,0,0" VerticalAlignment="Top" Width="193" Click="joinUpdateServer" Background="#FF31CD88" FontSize="16"/>
+        <Label Background="LightCyan" Content="PS:加入内网更新服务器，不占用&#xD;&#xA; 企业出口带宽，更新补丁速度更快！&#xD;&#xA;" HorizontalAlignment="Left" Margin="264,26,0,0" VerticalAlignment="Top" Width="224" Height="72" FontSize="14"/>
+
+    </Grid> 
+</Window>

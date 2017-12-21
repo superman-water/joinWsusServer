@@ -1,0 +1,16 @@
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\obj\Debug\JoinUpdateServer.csprojResolveAssemblyReference.cache
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\obj\Debug\MainWindow.g.cs
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\obj\Debug\App.g.cs
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\obj\Debug\JoinUpdateServer_MarkupCompile.cache
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\obj\Debug\JoinUpdateServer_MarkupCompile.lref
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\obj\Debug\MainWindow.baml
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\obj\Debug\JoinUpdateServer.g.resources
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\obj\Debug\JoinUpdateServer.Properties.Resources.resources
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\obj\Debug\JoinUpdateServer.csproj.GenerateResource.Cache
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\obj\Debug\JoinUpdateServer.csproj.CoreCompileInputs.cache
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\obj\Debug\JoinUpdateServer.exe
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\obj\Debug\JoinUpdateServer.pdb
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\bin\Debug\JoinUpdateServer.exe.config
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\bin\Debug\JoinUpdateServer.exe
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\bin\Debug\JoinUpdateServer.pdb
+C:\Users\wangjd\Desktop\projects\JoinUpdateServer\JoinUpdateServer\bin\Debug\System.Net.Http.dll
